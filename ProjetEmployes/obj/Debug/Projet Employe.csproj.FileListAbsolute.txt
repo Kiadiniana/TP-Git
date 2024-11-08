@@ -66,3 +66,46 @@ C:\Users\kiadi\Music\ProjetEmployes\obj\Debug\Projet Employe.csproj.CoreCompileI
 C:\Users\kiadi\Music\ProjetEmployes\obj\Debug\Projet E.5176E3F7.Up2Date
 C:\Users\kiadi\Music\ProjetEmployes\obj\Debug\Connecte.exe
 C:\Users\kiadi\Music\ProjetEmployes\obj\Debug\Connecte.pdb
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\Connecte.exe.config
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\Connecte.exe
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\Connecte.pdb
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\BouncyCastle.Cryptography.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\Google.Protobuf.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\K4os.Compression.LZ4.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\K4os.Hash.xxHash.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\MySql.Data.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Buffers.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.IO.Pipelines.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Memory.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Numerics.Vectors.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\ZstdSharp.dll
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\BouncyCastle.Cryptography.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\Google.Protobuf.pdb
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\Google.Protobuf.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\K4os.Compression.LZ4.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\K4os.Hash.xxHash.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\MySql.Data.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Buffers.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.IO.Pipelines.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Memory.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Numerics.Vectors.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\TP GIT\TP-Git\ProjetEmployes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\TP GIT\TP-Git\ProjetEmployes\obj\Debug\Projet Employe.csproj.AssemblyReference.cache
+C:\TP GIT\TP-Git\ProjetEmployes\obj\Debug\Connecte.Form1.resources
+C:\TP GIT\TP-Git\ProjetEmployes\obj\Debug\Connecte.Properties.Resources.resources
+C:\TP GIT\TP-Git\ProjetEmployes\obj\Debug\Projet Employe.csproj.GenerateResource.cache
+C:\TP GIT\TP-Git\ProjetEmployes\obj\Debug\Projet Employe.csproj.CoreCompileInputs.cache
+C:\TP GIT\TP-Git\ProjetEmployes\obj\Debug\Projet E.5176E3F7.Up2Date
+C:\TP GIT\TP-Git\ProjetEmployes\obj\Debug\Connecte.exe
+C:\TP GIT\TP-Git\ProjetEmployes\obj\Debug\Connecte.pdb

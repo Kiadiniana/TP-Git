@@ -3,44 +3,27 @@
   "WorkspaceRootPath": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A3D4D5D-821F-4DF0-BC93-B43D2099469C}|..\\Mission 2\\Mission 2.csproj|c:\\tp git\\tp-git\\mission 2\\dao\\portdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A3D4D5D-821F-4DF0-BC93-B43D2099469C}|..\\Mission 2\\Mission 2.csproj|c:\\tp git\\tp-git\\mission 2\\dao\\conectiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3D4D5D-821F-4DF0-BC93-B43D2099469C}|..\\Mission 2\\Mission 2.csproj|c:\\tp git\\tp-git\\mission 2\\dao\\livraisondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A3D4D5D-821F-4DF0-BC93-B43D2099469C}|..\\Mission 2\\Mission 2.csproj|c:\\tp git\\tp-git\\mission 2\\dao\\liaisondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3D4D5D-821F-4DF0-BC93-B43D2099469C}|..\\Mission 2\\Mission 2.csproj|c:\\tp git\\tp-git\\mission 2\\dao\\conection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3D4D5D-821F-4DF0-BC93-B43D2099469C}|..\\Mission 2\\Mission 2.csproj|c:\\tp git\\tp-git\\mission 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|C:\\TP GIT\\TP-Git\\ProjetEmployes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|C:\\TP GIT\\TP-Git\\ProjetEmployes\\controleur\\mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|solutionrelative:controleur\\mgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|c:\\tp git\\tp-git\\projetemployes\\dal\\employedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|solutionrelative:dal\\employedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|c:\\tp git\\tp-git\\projetemployes\\dal\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|solutionrelative:dal\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|C:\\TP GIT\\TP-Git\\ProjetEmployes\\vue\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|solutionrelative:vue\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3A3D4D5D-821F-4DF0-BC93-B43D2099469C}|..\\Mission 2\\Mission 2.csproj|c:\\tp git\\tp-git\\mission 2\\vue\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|C:\\TP GIT\\TP-Git\\ProjetEmployes\\vue\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|solutionrelative:vue\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A3D4D5D-821F-4DF0-BC93-B43D2099469C}|..\\Mission 2\\Mission 2.csproj|c:\\tp git\\tp-git\\mission 2\\vue\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|C:\\TP GIT\\TP-Git\\ProjetEmployes\\modele\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|solutionrelative:modele\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|C:\\TP GIT\\TP-Git\\ProjetEmployes\\dal\\employedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D66C123-AB3A-42FC-924B-010A6189918D}|Projet Employe.csproj|solutionrelative:dal\\employedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A3D4D5D-821F-4DF0-BC93-B43D2099469C}|..\\Mission 2\\Mission 2.csproj|c:\\tp git\\tp-git\\mission 2\\dao\\portdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,67 +41,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PortDAO.cs",
-              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\PortDAO.cs",
-              "RelativeDocumentMoniker": "..\\Mission 2\\DAO\\PortDAO.cs",
-              "ToolTip": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\PortDAO.cs",
-              "RelativeToolTip": "..\\Mission 2\\DAO\\PortDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:44:38.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LivraisonDAO.cs",
-              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\LivraisonDAO.cs",
-              "RelativeDocumentMoniker": "..\\Mission 2\\DAO\\LivraisonDAO.cs",
-              "ToolTip": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\LivraisonDAO.cs",
-              "RelativeToolTip": "..\\Mission 2\\DAO\\LivraisonDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:44:03.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Conection.cs",
-              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\Conection.cs",
-              "RelativeDocumentMoniker": "..\\Mission 2\\DAO\\Conection.cs",
-              "ToolTip": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\Conection.cs",
-              "RelativeToolTip": "..\\Mission 2\\DAO\\Conection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "EmployeDAO.cs",
+              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\DAL\\EmployeDAO.cs",
+              "RelativeDocumentMoniker": "DAL\\EmployeDAO.cs",
+              "ToolTip": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\DAL\\EmployeDAO.cs",
+              "RelativeToolTip": "DAL\\EmployeDAO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:43:21.622Z",
+              "WhenOpened": "2024-11-08T11:07:45.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\Mission 2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Mission 2\\Program.cs",
-              "ToolTip": "C:\\TP GIT\\TP-Git\\Mission 2\\Program.cs",
-              "RelativeToolTip": "..\\Mission 2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:33:37.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Connexion.cs",
               "DocumentMoniker": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\DAL\\Connexion.cs",
               "RelativeDocumentMoniker": "DAL\\Connexion.cs",
               "ToolTip": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\DAL\\Connexion.cs",
               "RelativeToolTip": "DAL\\Connexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:07:44.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\Mission 2\\Vue\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Mission 2\\Vue\\Form1.Designer.cs",
+              "ToolTip": "C:\\TP GIT\\TP-Git\\Mission 2\\Vue\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\Mission 2\\Vue\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:07:31.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\Mission 2\\Vue\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Mission 2\\Vue\\Form1.cs",
+              "ToolTip": "C:\\TP GIT\\TP-Git\\Mission 2\\Vue\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Mission 2\\Vue\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:52:59.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LiaisonDAO.cs",
+              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\LiaisonDAO.cs",
+              "RelativeDocumentMoniker": "..\\Mission 2\\DAO\\LiaisonDAO.cs",
+              "ToolTip": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\LiaisonDAO.cs",
+              "RelativeToolTip": "..\\Mission 2\\DAO\\LiaisonDAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:28:12.178Z",
+              "WhenOpened": "2024-11-08T10:52:32.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConectionDAO.cs",
+              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\ConectionDAO.cs",
+              "RelativeDocumentMoniker": "..\\Mission 2\\DAO\\ConectionDAO.cs",
+              "ToolTip": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\ConectionDAO.cs",
+              "RelativeToolTip": "..\\Mission 2\\DAO\\ConectionDAO.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwBEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:40:57.778Z",
               "EditorCaption": ""
             },
             {
@@ -127,79 +122,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Employe.cs",
-              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\Modele\\Employe.cs",
-              "RelativeDocumentMoniker": "Modele\\Employe.cs",
-              "ToolTip": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\Modele\\Employe.cs",
-              "RelativeToolTip": "Modele\\Employe.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAcAAAA",
+              "DocumentIndex": 6,
+              "Title": "PortDAO.cs",
+              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\PortDAO.cs",
+              "RelativeDocumentMoniker": "..\\Mission 2\\DAO\\PortDAO.cs",
+              "ToolTip": "C:\\TP GIT\\TP-Git\\Mission 2\\DAO\\PortDAO.cs",
+              "RelativeToolTip": "..\\Mission 2\\DAO\\PortDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:12:05.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\Vue\\Form1.cs",
-              "RelativeDocumentMoniker": "Vue\\Form1.cs",
-              "ToolTip": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\Vue\\Form1.cs",
-              "RelativeToolTip": "Vue\\Form1.cs",
-              "ViewState": "AQIAAJcAAAAAAAAAAAAkwKcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:22:50.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\Vue\\Form1.cs",
-              "RelativeDocumentMoniker": "Vue\\Form1.cs",
-              "ToolTip": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\Vue\\Form1.cs [Design]",
-              "RelativeToolTip": "Vue\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:51:17.901Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EmployeDAO.cs",
-              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\DAL\\EmployeDAO.cs",
-              "RelativeDocumentMoniker": "DAL\\EmployeDAO.cs",
-              "ToolTip": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\DAL\\EmployeDAO.cs",
-              "RelativeToolTip": "DAL\\EmployeDAO.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:28:13.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Mgr.cs",
-              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\Controleur\\Mgr.cs",
-              "RelativeDocumentMoniker": "Controleur\\Mgr.cs",
-              "ToolTip": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\Controleur\\Mgr.cs",
-              "RelativeToolTip": "Controleur\\Mgr.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAowDUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:28:08.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\TP GIT\\TP-Git\\ProjetEmployes\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T07:27:59.611Z",
+              "WhenOpened": "2024-11-08T09:44:38.059Z",
               "EditorCaption": ""
             }
           ]
